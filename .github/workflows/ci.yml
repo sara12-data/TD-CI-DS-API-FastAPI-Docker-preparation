@@ -1,4 +1,4 @@
-name: CI – FastAPI (TD avancé)
+name: CI – FastAPI
 
 on:
   pull_request:
