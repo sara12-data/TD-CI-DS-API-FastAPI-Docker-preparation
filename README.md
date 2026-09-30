@@ -14,7 +14,7 @@ This project demonstrates a simple yet powerful API built using FastAPI for serv
    
    Interactive Docs: Automatically generated API documentation available at /docs.
    
-
+![CI](https://github.com/sara12-data/TD-CI-DS-API-FastAPI-Docker-preparation/actions/workflows/ci.yml/badge.svg)
 # Endpoints
 
   ### Health Check:
