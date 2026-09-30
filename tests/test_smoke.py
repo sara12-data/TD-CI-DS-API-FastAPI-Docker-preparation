@@ -1,7 +1,9 @@
 # tests/test_smoke.py
 import pytest
 from httpx import AsyncClient
+
 from app.main import app
+
 
 @pytest.mark.anyio
 async def test_smoke():
